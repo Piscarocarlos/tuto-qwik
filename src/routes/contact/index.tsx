@@ -47,7 +47,7 @@ export const head: DocumentHead = {
     meta: [
         {
             name: "description",
-            content: "Votre super page de contact"
+            content: "Votre super page de contact."
         } 
     ]
 }
